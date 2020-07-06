@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Easy Note</string>
+    <string name="demo_text">Example Demo</string>
+    <string name="string_search">Search</string>
+    <string name="string_grid">Grid View</string>
+</resources>
